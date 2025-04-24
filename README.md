@@ -8,10 +8,10 @@
 - Robert Smith
 
 ## Project Title:
-Implementing an LFSR onto a Lattice FPGA Board
+Implementing a 7-segment display onto a Lattice FPGA Board
 
 ## Project Description:
-The goal of this Project is to create a step-by-step tutorial to implement an LFSR onto a new board - The Lattice iCEbreaker V1. Once that is complete we will design a full lab, similar to the ones utilized in class, that can be ran through by new FPGA students with no issues.
+The goal of this Project is to create a step-by-step tutorial to implement various verilog files, including a 7-segment display, onto a new board - The Lattice iCEbreaker V1. Once that is complete we will design a full lab, similar to the ones utilized in class, that can be ran through by new FPGA students with no issues.
 ## Key Objectives:
 - Download Software for Lattice FPGA Board
 - Implement LFSR onto the FPGA Board
@@ -44,7 +44,7 @@ The goal of this Project is to create a step-by-step tutorial to implement an LF
 - RTL/HDL Lanuage: Verilog
 
 ## Expected Outcomes:
-We hope to deliver a finished lab that will allow any student with the FPGA Board to run an LFSR without the need of outside assistance.
+We hope to deliver a finished lab that will allow any student with the FPGA Board to run various verilog files, including the 7-segment display, without the need of outside assistance.
 
 ## Tasks:
 - Garrett Delaney - Design the 7-segment Verilog code, design the initial tutorial to download and run the necessary software onto the board, debugging.
