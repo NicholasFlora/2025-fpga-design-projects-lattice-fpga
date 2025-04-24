@@ -47,8 +47,8 @@ The goal of this Project is to create a step-by-step tutorial to implement an LF
 We hope to deliver a finished lab that will allow any student with the FPGA Board to run an LFSR without the need of outside assistance.
 
 ## Tasks:
-- Garrett Delaney - Design the LFSR Verilog code, design the initial tutorial to download and run the necessary software onto the board, debugging.
-- Nick Flora- Design the LFSR Verilog code, design the initial tutorial to download and run the necessary software onto the board, debugging, first run of downloading software that would be used with board
+- Garrett Delaney - Design the 7-segment Verilog code, design the initial tutorial to download and run the necessary software onto the board, debugging.
+- Nick Flora- Design the initial tutorial to download and run the necessary software onto the board, debugging, first run of downloading software that would be used with board
 - Robert Smith - Introduction, Background, Questions, will be running through the tutorial after creation to confirm the tasks, make sure it can be done without any outside help
 
 ## Timeline:
